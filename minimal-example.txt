@@ -1,0 +1,7 @@
+Here we have installed http-server locally after running "npm init" to get a blank package.json file. 
+
+Run the following:
+
+prompt> ./node_modules/http-server/bin/http-server
+
+then in browser head to what's given (currently: localhost:8080)
